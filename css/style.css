@@ -1669,4 +1669,16 @@ blockquote {
   border: none;
 }
 
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #6c757d !important;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
 /*# sourceMappingURL=style.css.map */
