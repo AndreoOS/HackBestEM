@@ -61,3 +61,20 @@
     color: $primary-color;
   }
 }
+
+.navbar{
+  .nav-item{
+    .nav-link{
+      font-family: $secondary-font;
+      text-transform: uppercase;
+      padding: 15px;
+    }
+    &.active{
+      font-weight: bold;
+    }
+  }
+}
+.cart-btn {
+  background-color: transparent;
+  border: none;
+}
