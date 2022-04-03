@@ -1,0 +1,7 @@
+{
+    "data": [
+      {"name":"Ciabatta", "id":1, "x":2, "y": 2}, {"name":"Rulou mere", "id":2, "x":2, "y": 4}, {"name":"Chifla Kaiser", "id":3, "x":2, "y": 6}, {"name":"Pain au chocolat", "id":4, "x":2, "y": 8}, {"name":"Merdenea", "id":5, "x":2, "y": 10}, 
+      {"name":"Kefir", "id":6, "x":4, "y": 2}, {"name":"Gouda", "id":7, "x":4, "y": 4}, {"name":"Cheddar", "id":8, "x":4, "y": 6}, {"name":"Tzatziki", "id":9, "x":4, "y": 8}, {"name":"Unt", "id":10, "x":4, "y": 10}
+       ]
+    }
+
