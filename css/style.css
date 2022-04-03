@@ -1793,7 +1793,7 @@ blockquote {
 }
 
 .btn-primary:hover {
-  background-color: #2b116e !important;
+  background-color: #431ea0 !important;
 }
 
 .btn-purchase {
@@ -1804,6 +1804,20 @@ blockquote {
 
 .shop-item-id {
   display: none;
+}
+
+.map {
+  margin: auto;
+  display: flex;
+}
+
+.map-bg {
+  background: #785fc2;
+}
+
+.back-btn {
+  width: 10%;
+  margin: auto;
 }
 
 /*# sourceMappingURL=style.css.map */

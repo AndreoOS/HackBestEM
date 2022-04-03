@@ -45,9 +45,8 @@ function purchaseClicked() {
     while (cartItems.hasChildNodes()) {
         cartItems.removeChild(cartItems.firstChild)
     }
-
-    localStorage.setItem('myData', JSON.stringify(data));
     updateCartTotal()
+    window.location.href = './salesman/site.html'
 }
 
 function removeCartItem(event) {
